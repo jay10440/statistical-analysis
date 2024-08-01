@@ -1,2 +1,2 @@
 # statistical-analysis
-This repository is a list of little projects and notebooks related to statistical analysis!
+This repository is a list of little projects and notebooks related to statistical analysis! In particular, there will be various projects littered into this repository in relation to time series analysis, statistical modeling tools (like markov chains, etc), linear models, and other things. Some notebooks will be tutorials, and other notebooks will be fun projects or a combination of both! I would like to eventually like to add in packages to certain code created too, so keep an eye out!
